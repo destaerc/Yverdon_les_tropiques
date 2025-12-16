@@ -1,0 +1,16 @@
+source;station;avg_temp;max_temp;min_temp;nights_tropical;days_tropical;mean_diff_Tmax_vs_ref;mean_diff_day_vs_ref;mean_diff_night_vs_ref;days_with_data
+Decentlab;Cimetière;25.53;36.62;13.78;3;9;1.38;1.63;1.46;10
+Decentlab;Jardin de Poche;25.19;34.94;14.33;3;9;0.11;1.04;1.72;10
+Decentlab;Parc d'Entremonts;25.17;34.92;14.84;3;9;-0.24;0.82;2.18;10
+Decentlab;Parc des Rives;24.44;35.72;14.26;3;5;-1.89;-0.12;1.94;10
+Decentlab;Pierre de Savoie;25.77;37.04;13.67;3;10;1.89;2.01;1.33;10
+Decentlab;Place Pestalozzi;25.79;37.67;15.4;3;9;1.63;1.4;2.87;10
+Decentlab;Place d'Arme;25.84;36.29;15.13;4;9;0.2;1.43;3.0;10
+Decentlab;Platane du Château;25.5;37.23;14.85;3;9;0.11;1.01;2.85;10
+Decentlab;Rue de la Plaine;26.05;36.71;15.03;3;9;1.32;1.8;2.8;10
+HOBO;Haldimand;25.97;36.59;15.02;4;10;1.22;1.64;2.92;10
+HOBO;Hopital;25.9;35.43;14.99;3;9;0.06;1.72;2.5;10
+HOBO;Les Isles;25.4;36.82;13.76;3;9;0.41;1.38;1.58;10
+HOBO;Parcst;25.89;36.48;14.29;3;9;0.99;1.86;2.09;10
+HOBO;Pres Du Lac;24.88;36.18;14.09;3;8;-0.82;0.59;1.73;10
+HOBO;Rue Du Canal;25.15;35.75;13.34;3;9;0.0;1.0;1.66;10
